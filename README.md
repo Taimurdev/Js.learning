@@ -30,7 +30,7 @@ The purpose of this repository is to:
 
 - HTML
 - CSS
-- JavaScript (Vanilla JS)
+- JavaScript
 
 ---
 
